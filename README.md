@@ -12,6 +12,9 @@ A simple temperature convertor website build using HTML, CSS, JavaScript.
   <li>
     The temperature will then be automatically displayed into other units ( kelvin, Celcius,  Fahrenheit )
   </li>
+  <li>
+    Clear all input data
+  </li>
 </ul>
 
 ##Deployment
